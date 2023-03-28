@@ -1,0 +1,7 @@
+Para que funcione la musica en discord, se tiene que tener instalado JDK de Java.
+Despues de instalarlo, se abre cmd y se mueve a la carpeta del proyecto, y luego a la
+carpeta Lavalink.
+Ahi dentro ejecutamos el siguiente comando: 
+java -jar Lavalink.jar
+Despues de eso esperamos a la terminar diga: Lavalink y ready to accept connections.
+Ya podemos hacer peticiones de musica desde Discord, disfrute!!!
